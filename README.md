@@ -1,6 +1,7 @@
 # Summary of the most useful tricks to keep in mind
  
-## Tools (linters)
+## Tools 
+
 Also markdown linters are really useful though!
 To have a good documentation.
  
