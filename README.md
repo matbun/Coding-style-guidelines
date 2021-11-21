@@ -2,7 +2,7 @@
  
 ## Tools (linters)
 Also markdown linters are really useful though!
-Have a good documentation.
+To have a good documentation.
  
 For Sublime Text:
  
